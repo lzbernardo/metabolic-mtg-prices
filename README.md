@@ -11,4 +11,5 @@ Sample spreadsheet:
 | Myr de hierro	| myr-de-hierro	| es | *0,17 €* |
 
 Formatting URLPatches: `=LOWER(REGEXREPLACE(A1,"\s","-"))`
+
 Detecting languages from card names: `=DETECTLANGUAGE(A2)`
