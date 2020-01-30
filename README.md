@@ -10,4 +10,4 @@ Sample spreadsheet:
 | Harvest Gwyllion | harvest-gwyllion	| en | *$ 0.07* |
 | Myr de hierro	| myr-de-hierro	| es | *0,17 €* |
 
-Highly recommended to use google sheets' auto-detect for languages: `=DETECTLANGUAGE(A1)`
+Highly recommended to use google sheets' formatting for URLPatches (`=LOWER(REGEXREPLACE(A1,"\s","-"))`) detection for languages (`=DETECTLANGUAGE(A2)`).
