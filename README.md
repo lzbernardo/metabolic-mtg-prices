@@ -3,7 +3,7 @@ Metabolic - Google script for scraping mtg card price ranges (Warning: there are
 
 Sample spreadsheet:
 
-| Carta  | URLPatch | Lang | Price (Scraped) |
+| Card  | URLPatch | Lang | Price (Scraped) |
 | ------------- | ------------- | ------------- | ------------- |
 | Señor myr	| señor-myr	| es | *0,08 €* |
 | Myr de cobre	| myr-de-cobre	| pt	| *R$ 0,26* |
