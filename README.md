@@ -2,6 +2,7 @@
 Metabolic - Google script for scraping mtg card price ranges (Warning: there are regexes involved. It's disgusting. But it works on a spreadsheet)
 
 Sample spreadsheet:
+
 | Carta  | URLPatch | Lang | Price (Scraped) |
 | ------------- | ------------- | ------------- | ------------- |
 | Señor myr	| señor-myr	| es | *0,08 €* |
